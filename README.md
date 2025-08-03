@@ -4,7 +4,9 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/6d/62/1c/6d621c8ed9fd3bce8f0b768cbe1ce80b.gif" alt="Gear 5 Luffy smiling" height="200" /> 
 </div>
+
 ![](https://komarev.com/ghpvc/?username=Divyendra042&color=blue)
+
 # Hey there, I'm **Divyendra Kantipudi** <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 ---
